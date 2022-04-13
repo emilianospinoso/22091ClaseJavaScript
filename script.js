@@ -39,7 +39,7 @@ let str3 = `otro string mas`
 let str4 = str1 + " y " +str2 + " se casan " 
 let str5 = `${str1}  y ${str2} se casan     `
 console.log(str4)
-console.log(str5)
+console.log(str5);
 
 
 
